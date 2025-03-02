@@ -1,0 +1,12 @@
+streamlit 
+spacy 
+requests 
+beautifulsoup4 
+newsapi-python
+googlesearch-python
+transformers
+torch
+numpy
+sentence-transformers
+requests-html
+lxml[html_clean]
